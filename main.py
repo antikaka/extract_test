@@ -25,14 +25,14 @@ if __name__ == '__main__':
     elem_buttons[0].click()        #origin
     time.sleep(1)
     elem = driver.find_element(By.XPATH, "//input[@id='origin_select']")
-    elem.send_keys(origin)
+    elem.send_keys(origin)          #enter origin
     time.sleep(1)
     elem.send_keys(Keys.RETURN)
     time.sleep(1)
     elem_buttons[1].click()        #destination
     time.sleep(1)
     elem = driver.find_element(By.XPATH, "//input[@id='destination_select']")
-    elem.send_keys(destination)
+    elem.send_keys(destination)    #enter destination
     time.sleep(1)
     elem.send_keys(Keys.RETURN)
     time.sleep(1)
@@ -40,10 +40,10 @@ if __name__ == '__main__':
 
 
     elem = driver.find_element(By.XPATH, "//button[@id='search_button']")
-    elem.click()
+    elem.click()                #search
     time.sleep(2)
 
-    url = driver.current_url
+    url = driver.current_url    #grab the url
     date_def = datetime.datetime.date(datetime.datetime.today() + datetime.timedelta(days=14))
     replace_me = f"{date_def.year}-{date_def.month}-{date_def.day}"
     replace_me2 = f"{date_def.day}/{date_def.month}/{date_def.year}"
@@ -54,26 +54,26 @@ if __name__ == '__main__':
     with open("test.txt", "w") as failas:
         failas.write("")
 
-    for num in range(11):
-        if num < 1:
+    for num in range(11):   #for loop that uses the old url that was formatted
+        if num < 1:         #and creates new urls with new dates
             continue
         date_check = datetime.datetime.date(datetime.datetime.today() + datetime.timedelta(days=num))
 
         url_new = url_o.replace("*replace_me*", f"{date_check.year}-{date_check.month}-{date_check.day}")
         url_new = url_new.replace("*replace_me2*", f"{date_check.day}/{date_check.month}/{date_def.year}")
-        driver.get(url_new)
+        driver.get(url_new)   #new url
         time.sleep(20)
 
-        elem = driver.find_elements(By.CLASS_NAME, "is-visually-hidden")
+        elem = driver.find_elements(By.CLASS_NAME, "is-visually-hidden") #text info elements
         time.sleep(2)
 
         with open("test.txt", "a") as failas:
             failas.write(f"\nFLIGHTS FROM {origin} TO {destination} {date_check}\n\n\n")
 
         for x in elem:
-            if x.text.startswith("Select and"):
+            if x.text.startswith("Select and"): #filters to use only flight explanation
                 with open("test.txt", "a") as failas:
-                    failas.write(f"{x.text[36:]}\n\n")
+                    failas.write(f"{x.text[36:]}\n\n")  #writes into file
 
 
 
