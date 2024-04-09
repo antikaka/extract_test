@@ -1,0 +1,500 @@
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-10
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 14:45 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 17 hours 5 minutes total travel time, One stop, Stopover for 15 hours 15 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 20:40 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 23 hours 0 minutes total travel time, One stop, Stopover for 21 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 14:45 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 23 hours 25 minutes total travel time, One stop, Stopover for 21 hours 35 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €175 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €175 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €175 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 14:45 in Helsinki, Priced at €175 One way per traveller. 9 hours 10 minutes total travel time, One stop, Stopover for 7 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 20:40 in Helsinki, Priced at €175 One way per traveller. 11 hours 30 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 20:40 in Helsinki, Priced at €175 One way per traveller. 15 hours 5 minutes total travel time, One stop, Stopover for 13 hours 15 minutes in Riga.
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €238 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €329 One way per traveller. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 17:25 in Helsinki, Priced at €329 One way per traveller. 11 hours 25 minutes total travel time, One stop, Stopover for 6 hours 45 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 13:45 from Vilnius, arriving at 01:15 in Helsinki, Priced at €329 One way per traveller, 1 left at this price. Arrives 1 day later. 11 hours 30 minutes total travel time, One stop, Stopover for 6 hours 50 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 10:35 in Helsinki, Priced at €338 One way per traveller. 4 hours 5 minutes total travel time, One stop, Stopover for 1 hour 0 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet
+
+ Scandinavian Airlines flight, departing at 11:10 from Vilnius, arriving at 16:15 in Helsinki, Priced at €338 One way per traveller, 5 left at this price. 5 hours 5 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Copenhagen.• Scandinavian Airlines 745 operated by Cityjet, Scandinavian Airlines 1712 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 23:55 in Helsinki, Priced at €338 One way per traveller, 5 left at this price. 8 hours 5 minutes total travel time, One stop, Stopover for 5 hours 0 minutes in Copenhagen.• Scandinavian Airlines 1743 operated by Cityjet, Scandinavian Airlines 1720 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 16:15 in Helsinki, Priced at €338 One way per traveller. 9 hours 45 minutes total travel time, One stop, Stopover for 6 hours 40 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet, Scandinavian Airlines 1712 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 11:10 from Vilnius, arriving at 23:55 in Helsinki, Priced at €338 One way per traveller. 12 hours 45 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Copenhagen.• Scandinavian Airlines 745 operated by Cityjet, Scandinavian Airlines 1720 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 23:55 in Helsinki, Priced at €338 One way per traveller. 17 hours 25 minutes total travel time, One stop, Stopover for 14 hours 20 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet, Scandinavian Airlines 1720 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 10:35 in Helsinki, Priced at €338 One way per traveller. Arrives 1 day later. 18 hours 45 minutes total travel time, One stop, Stopover for 15 hours 40 minutes in Copenhagen.• Scandinavian Airlines 1743 operated by Cityjet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 11:00 in Helsinki, Priced at €367 One way per traveller, 4 left at this price. 4 hours 0 minutes total travel time, One stop, Stopover for 1 hour 35 minutes in Stockholm.• Scandinavian Airlines 1741 and 704 operated by Regional Jet
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-11
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 14:45 in Helsinki, Priced at €135 One way per traveller. Arrives 1 day later. 17 hours 5 minutes total travel time, One stop, Stopover for 15 hours 15 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 20:40 in Helsinki, Priced at €135 One way per traveller. Arrives 1 day later. 23 hours 0 minutes total travel time, One stop, Stopover for 21 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 14:45 in Helsinki, Priced at €135 One way per traveller. Arrives 1 day later. 23 hours 25 minutes total travel time, One stop, Stopover for 21 hours 35 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €155 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €155 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €175 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €175 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 14:45 in Helsinki, Priced at €175 One way per traveller. 9 hours 10 minutes total travel time, One stop, Stopover for 7 hours 20 minutes in Riga.
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €218 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by NORDIC REG FOR FINNAIR
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €238 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 01:15 in Helsinki, Priced at €278 One way per traveller, 5 left at this price. Arrives 1 day later. 6 hours 0 minutes total travel time, One stop, Stopover for 1 hour 20 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €278 One way per traveller. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 17:25 in Helsinki, Priced at €278 One way per traveller. 11 hours 25 minutes total travel time, One stop, Stopover for 6 hours 45 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 13:40 from Vilnius, arriving at 01:15 in Helsinki, Priced at €278 One way per traveller. Arrives 1 day later. 11 hours 35 minutes total travel time, One stop, Stopover for 6 hours 55 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 01:15 in Helsinki, Priced at €290 One way per traveller. Arrives 1 day later. 19 hours 15 minutes total travel time, One stop, Stopover for 14 hours 35 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 12:40 in Helsinki, Priced at €297 One way per traveller, 5 left at this price. Arrives 1 day later. 17 hours 25 minutes total travel time, One stop, Stopover for 12 hours 45 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 17:25 in Helsinki, Priced at €297 One way per traveller, 5 left at this price. Arrives 1 day later. 22 hours 10 minutes total travel time, One stop, Stopover for 17 hours 30 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 11:10 from Vilnius, arriving at 16:15 in Helsinki, Priced at €298 One way per traveller, 3 left at this price. 5 hours 5 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Copenhagen.• Scandinavian Airlines 745 operated by Cityjet, Scandinavian Airlines 1712 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 11:10 from Vilnius, arriving at 23:55 in Helsinki, Priced at €298 One way per traveller, 4 left at this price. 12 hours 45 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Copenhagen.• Scandinavian Airlines 745 operated by Cityjet, Scandinavian Airlines 1720 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 11:10 from Vilnius, arriving at 10:35 in Helsinki, Priced at €298 One way per traveller, 4 left at this price. Arrives 1 day later. 23 hours 25 minutes total travel time, One stop, Stopover for 20 hours 20 minutes in Copenhagen.• Scandinavian Airlines 745 operated by Cityjet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 11:00 in Helsinki, Priced at €327 One way per traveller. 4 hours 0 minutes total travel time, One stop, Stopover for 1 hour 35 minutes in Stockholm.• Scandinavian Airlines 1741 and 704 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 14:00 in Helsinki, Priced at €327 One way per traveller. 7 hours 0 minutes total travel time, One stop, Stopover for 4 hours 35 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-12
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €135 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €155 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €155 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 14:45 in Helsinki, Priced at €155 One way per traveller. 9 hours 10 minutes total travel time, One stop, Stopover for 7 hours 20 minutes in Riga.
+
+ Norwegian Air International Ltd flight, departing at 09:55 from Vilnius, arriving at 18:20 in Helsinki, Priced at €170 One way per traveller. 8 hours 25 minutes total travel time, One stop, Stopover for 6 hours 5 minutes in Stockholm.
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €218 One way per traveller, 1 left at this price. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €218 One way per traveller, 2 left at this price. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 19:30 from Vilnius, arriving at 01:15 in Helsinki, Priced at €236 One way per traveller, 2 left at this price. Arrives 1 day later. 5 hours 45 minutes total travel time, One stop, Stopover for 1 hour 5 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 19:30 from Vilnius, arriving at 12:40 in Helsinki, Priced at €255 One way per traveller, 2 left at this price. Arrives 1 day later. 17 hours 10 minutes total travel time, One stop, Stopover for 12 hours 30 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 11:00 in Helsinki, Priced at €327 One way per traveller, 1 left at this price. 4 hours 0 minutes total travel time, One stop, Stopover for 1 hour 35 minutes in Stockholm.• Scandinavian Airlines 1741 and 704 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 14:00 in Helsinki, Priced at €327 One way per traveller, 1 left at this price. 7 hours 0 minutes total travel time, One stop, Stopover for 4 hours 35 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 16:40 in Helsinki, Priced at €327 One way per traveller, 1 left at this price. 9 hours 40 minutes total travel time, One stop, Stopover for 7 hours 15 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 21:50 from Vilnius, arriving at 10:35 in Helsinki, Priced at €327 One way per traveller. Arrives 1 day later. 12 hours 45 minutes total travel time, One stop, Stopover for 10 hours 20 minutes in Stockholm.• Scandinavian Airlines 1731 and 704 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 23:55 in Helsinki, Priced at €327 One way per traveller, 1 left at this price. 16 hours 55 minutes total travel time, One stop, Stopover for 14 hours 30 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 21:50 from Vilnius, arriving at 17:15 in Helsinki, Priced at €327 One way per traveller. Arrives 1 day later. 19 hours 25 minutes total travel time, One stop, Stopover for 17 hours 0 minutes in Stockholm.• Scandinavian Airlines 1731 and 708 operated by Regional Jet
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €329 One way per traveller, 2 left at this price. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 17:25 in Helsinki, Priced at €329 One way per traveller, 2 left at this price. 11 hours 25 minutes total travel time, One stop, Stopover for 6 hours 45 minutes in Frankfurt.
+
+ multipleAirlines flight, departing at 21:40 from Vilnius, arriving at 12:40 in Helsinki, Priced at €331 One way per traveller. Arrives 1 day later. 15 hours 0 minutes total travel time, Two stops, Stopover for 7 hours 30 minutes in Riga • Stopover for 1 hour 55 minutes in Frankfurt.
+
+ multipleAirlines flight, departing at 21:40 from Vilnius, arriving at 17:25 in Helsinki, Priced at €331 One way per traveller. Arrives 1 day later. 19 hours 45 minutes total travel time, Two stops, Stopover for 7 hours 30 minutes in Riga • Stopover for 6 hours 40 minutes in Frankfurt.
+
+ multipleAirlines flight, departing at 15:20 from Vilnius, arriving at 12:40 in Helsinki, Priced at €331 One way per traveller. Arrives 1 day later. 21 hours 20 minutes total travel time, Two stops, Stopover for 13 hours 50 minutes in Riga • Stopover for 1 hour 55 minutes in Frankfurt.
+
+ multipleAirlines flight, departing at 15:20 from Vilnius, arriving at 17:25 in Helsinki, Priced at €331 One way per traveller. Arrives 1 day later. 26 hours 5 minutes total travel time, Two stops, Stopover for 13 hours 50 minutes in Riga • Stopover for 6 hours 40 minutes in Frankfurt.
+
+ multipleAirlines flight, departing at 21:40 from Vilnius, arriving at 01:15 in Helsinki, Priced at €331 One way per traveller, 4 left at this price. Arrives 2 days later. 27 hours 35 minutes total travel time, Two stops, Stopover for 15 hours 25 minutes in Riga • Stopover for 6 hours 35 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 10:35 in Helsinki, Priced at €338 One way per traveller, 3 left at this price. 4 hours 5 minutes total travel time, One stop, Stopover for 1 hour 0 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-13
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €110 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €110 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €124 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.• Air Baltic 301 operated by Carpatair
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 00:20 in Helsinki, Priced at €124 One way per traveller. Arrives 1 day later. 15 hours 10 minutes total travel time, One stop, Stopover for 13 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €164 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.• Air Baltic 307 operated by Carpatair
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 20:40 in Helsinki, Priced at €164 One way per traveller. 11 hours 30 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Riga.• Air Baltic 307 operated by Carpatair
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €188 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by Nordic Reg For Finnair
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €218 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 13:50 in Helsinki, Priced at €222 One way per traveller, 3 left at this price. Arrives 1 day later. 22 hours 0 minutes total travel time, Two stops, Stopover for 15 hours 40 minutes in Copenhagen • Stopover for 2 hours 15 minutes in Stockholm.• Scandinavian Airlines 1743 operated by Cityjet, Scandinavian Airlines 710 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 10:40 in Helsinki, Priced at €228 One way per traveller, 5 left at this price. Arrives 1 day later. 18 hours 50 minutes total travel time, One stop, Stopover for 15 hours 45 minutes in Copenhagen.• Scandinavian Airlines 1743 and 1706 operated by Cityjet
+
+ Lufthansa flight, departing at 13:45 from Vilnius, arriving at 01:15 in Helsinki, Priced at €236 One way per traveller, 2 left at this price. Arrives 1 day later. 11 hours 30 minutes total travel time, One stop, Stopover for 6 hours 50 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €278 One way per traveller. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 01:15 in Helsinki, Priced at €290 One way per traveller. Arrives 1 day later. 19 hours 15 minutes total travel time, One stop, Stopover for 14 hours 35 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 13:45 from Vilnius, arriving at 12:40 in Helsinki, Priced at €297 One way per traveller, 4 left at this price. Arrives 1 day later. 22 hours 55 minutes total travel time, One stop, Stopover for 18 hours 15 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 10:00 in Helsinki, Priced at €298 One way per traveller, 3 left at this price. Arrives 1 day later. 18 hours 10 minutes total travel time, Two stops, Stopover for 1 hour 0 minutes in Copenhagen • Stopover for 13 hours 25 minutes in Stockholm.• Scandinavian Airlines 1743 and 1408 operated by Cityjet, Scandinavian Airlines 708 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 10:35 in Helsinki, Priced at €298 One way per traveller, 5 left at this price. 4 hours 5 minutes total travel time, One stop, Stopover for 1 hour 0 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet
+
+ Finnair flight, departing at 13:30 from Vilnius, arriving at 15:20 in Helsinki, Priced at €323 One way per traveller, 1 left at this price. 1 hour 50 minutes total travel time, Direct.• Finnair 1108 operated by Nordic Reg For Finnair
+
+ Swiss International Air Lines flight, departing at 06:15 from Vilnius, arriving at 00:20 in Helsinki, Priced at €331 One way per traveller, 1 left at this price. Arrives 2 days later. 42 hours 5 minutes total travel time, Two stops, Stopover for 23 hours 30 minutes in Zürich • Stopover for 12 hours 50 minutes in Copenhagen.• Swiss International Air Lines 1339 operated by Air Baltic, Swiss International Air Lines 1266 operated by Helvetic Airways, Swiss International Air Lines 4768 operated by Sas Connect
+
+ multipleAirlines flight, departing at 06:15 from Vilnius, arriving at 10:40 in Helsinki, Priced at €346 One way per traveller, 1 left at this price. Arrives 1 day later. 28 hours 25 minutes total travel time, Two stops, Stopover for 8 hours 5 minutes in Zürich • Stopover for 14 hours 35 minutes in Copenhagen.• Swiss International Air Lines 1339 operated by Air Baltic, Scandinavian Airlines 1706 operated by Cityjet
+
+ multipleAirlines flight, departing at 06:15 from Vilnius, arriving at 00:20 in Helsinki, Priced at €346 One way per traveller, 1 left at this price. Arrives 2 days later. 42 hours 5 minutes total travel time, Two stops, Stopover for 23 hours 30 minutes in Zürich • Stopover for 12 hours 50 minutes in Copenhagen.• Swiss International Air Lines 1339 operated by Air Baltic, Swiss International Air Lines 1266 operated by Helvetic Airways, Scandinavian Airlines 1720 operated by Sas Connect
+
+ multipleAirlines flight, departing at 13:45 from Vilnius, arriving at 13:50 in Helsinki, Priced at €359 One way per traveller, 4 left at this price. Arrives 1 day later. 24 hours 5 minutes total travel time, Two stops, Stopover for 6 hours 50 minutes in Frankfurt • Stopover for 11 hours 35 minutes in Stockholm.• Scandinavian Airlines 710 operated by Regional Jet
+
+ multipleAirlines flight, departing at 13:45 from Vilnius, arriving at 13:50 in Helsinki, Priced at €359 One way per traveller, 4 left at this price. Arrives 1 day later. 24 hours 5 minutes total travel time, Two stops, Stopover for 4 hours 20 minutes in Frankfurt • Stopover for 14 hours 5 minutes in Stockholm.• Scandinavian Airlines 710 operated by Regional Jet
+
+ multipleAirlines flight, departing at 13:45 from Vilnius, arriving at 13:50 in Helsinki, Priced at €359 One way per traveller, 4 left at this price. Arrives 1 day later. 24 hours 5 minutes total travel time, Two stops, Stopover for 1 hour 5 minutes in Frankfurt • Stopover for 17 hours 20 minutes in Stockholm.• Scandinavian Airlines 710 operated by Regional Jet
+
+ multipleAirlines flight, departing at 13:45 from Vilnius, arriving at 10:40 in Helsinki, Priced at €369 One way per traveller, 2 left at this price. Arrives 1 day later. 20 hours 55 minutes total travel time, Two stops, Stopover for 5 hours 50 minutes in Frankfurt • Stopover for 9 hours 50 minutes in Copenhagen.• Scandinavian Airlines 1706 operated by Cityjet
+
+ multipleAirlines flight, departing at 09:10 from Vilnius, arriving at 01:15 in Helsinki, Priced at €373 One way per traveller. Arrives 1 day later. 16 hours 5 minutes total travel time, Two stops, Stopover for 3 hours 55 minutes in Riga • Stopover for 6 hours 35 minutes in Frankfurt.
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-14
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 10 minutes total travel time, One stop, Stopover for 21 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 05:30 from Vilnius, arriving at 08:20 in Helsinki, Priced at €135 One way per traveller. 2 hours 50 minutes total travel time, One stop, Stopover for 1 hour 0 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €175 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €175 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 00:20 in Helsinki, Priced at €175 One way per traveller. Arrives 1 day later. 15 hours 10 minutes total travel time, One stop, Stopover for 13 hours 20 minutes in Riga.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €236 One way per traveller. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 13:40 from Vilnius, arriving at 01:15 in Helsinki, Priced at €236 One way per traveller, 3 left at this price. Arrives 1 day later. 11 hours 35 minutes total travel time, One stop, Stopover for 6 hours 55 minutes in Frankfurt.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €259 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €259 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 20:40 in Helsinki, Priced at €259 One way per traveller. 11 hours 30 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Riga.
+
+ Swiss International Air Lines flight, departing at 06:15 from Vilnius, arriving at 00:20 in Helsinki, Priced at €285 One way per traveller, 4 left at this price. Arrives 1 day later. 18 hours 5 minutes total travel time, Two stops, Stopover for 2 hours 45 minutes in Zürich • Stopover for 9 hours 40 minutes in Copenhagen.• Swiss International Air Lines 1339 operated by Air Baltic, Swiss International Air Lines 4704 operated by Scandinavian Airlines, Swiss International Air Lines 4768 operated by Sas Connect
+
+ multipleAirlines flight, departing at 06:00 from Vilnius, arriving at 00:20 in Helsinki, Priced at €327 One way per traveller, 4 left at this price. Arrives 1 day later. 18 hours 20 minutes total travel time, Two stops, Stopover for 8 hours 10 minutes in Frankfurt • Stopover for 5 hours 0 minutes in Copenhagen.• Lufthansa 6032 operated by Sas Connect, Scandinavian Airlines 1720 operated by Sas Connect
+
+ multipleAirlines flight, departing at 21:40 from Vilnius, arriving at 17:25 in Helsinki, Priced at €331 One way per traveller, 4 left at this price. Arrives 1 day later. 19 hours 45 minutes total travel time, Two stops, Stopover for 7 hours 50 minutes in Riga • Stopover for 6 hours 20 minutes in Frankfurt.
+
+ Swiss International Air Lines flight, departing at 06:15 from Vilnius, arriving at 00:20 in Helsinki, Priced at €331 One way per traveller, 2 left at this price. Arrives 1 day later. 18 hours 5 minutes total travel time, Two stops, Stopover for 9 hours 10 minutes in Zürich • Stopover for 3 hours 10 minutes in Copenhagen.• Swiss International Air Lines 1339 operated by Air Baltic, Swiss International Air Lines 1276 operated by Helvetic Airways, Swiss International Air Lines 4768 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 10:40 in Helsinki, Priced at €338 One way per traveller, 3 left at this price. 4 hours 10 minutes total travel time, One stop, Stopover for 1 hour 5 minutes in Copenhagen.• Scandinavian Airlines 743 and 1706 operated by Cityjet
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 00:20 in Helsinki, Priced at €338 One way per traveller, 5 left at this price. Arrives 1 day later. 17 hours 50 minutes total travel time, One stop, Stopover for 14 hours 45 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet, Scandinavian Airlines 1720 operated by Sas Connect
+
+ multipleAirlines flight, departing at 06:15 from Vilnius, arriving at 00:20 in Helsinki, Priced at €346 One way per traveller, 2 left at this price. Arrives 1 day later. 18 hours 5 minutes total travel time, Two stops, Stopover for 9 hours 10 minutes in Zürich • Stopover for 3 hours 10 minutes in Copenhagen.• Swiss International Air Lines 1339 operated by Air Baltic, Swiss International Air Lines 1276 operated by Helvetic Airways, Scandinavian Airlines 1720 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 15:00 from Vilnius, arriving at 21:10 in Helsinki, Priced at €367 One way per traveller, 5 left at this price. 6 hours 10 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Stockholm.• Scandinavian Airlines 739 and 718 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 15:00 from Vilnius, arriving at 00:25 in Helsinki, Priced at €367 One way per traveller. Arrives 1 day later. 9 hours 25 minutes total travel time, One stop, Stopover for 7 hours 0 minutes in Stockholm.• Scandinavian Airlines 739 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 15:00 from Vilnius, arriving at 08:35 in Helsinki, Priced at €367 One way per traveller. Arrives 1 day later. 17 hours 35 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Stockholm.• Scandinavian Airlines 739 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 15:00 from Vilnius, arriving at 11:00 in Helsinki, Priced at €367 One way per traveller. Arrives 1 day later. 20 hours 0 minutes total travel time, One stop, Stopover for 17 hours 35 minutes in Stockholm.• Scandinavian Airlines 739 and 704 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 15:00 from Vilnius, arriving at 14:00 in Helsinki, Priced at €367 One way per traveller. Arrives 1 day later. 23 hours 0 minutes total travel time, One stop, Stopover for 20 hours 35 minutes in Stockholm.• Scandinavian Airlines 739 operated by Regional Jet
+
+ multipleAirlines flight, departing at 09:10 from Vilnius, arriving at 01:15 in Helsinki, Priced at €373 One way per traveller. Arrives 1 day later. 16 hours 5 minutes total travel time, Two stops, Stopover for 3 hours 55 minutes in Riga • Stopover for 6 hours 35 minutes in Frankfurt.
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-15
+
+
+ Norwegian Air International Ltd flight, departing at 14:35 from Vilnius, arriving at 18:20 in Helsinki, Priced at €85 One way per traveller. 3 hours 45 minutes total travel time, One stop, Stopover for 1 hour 25 minutes in Stockholm.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 5 minutes total travel time, One stop, Stopover for 15 hours 15 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 0 minutes total travel time, One stop, Stopover for 21 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 25 minutes total travel time, One stop, Stopover for 21 hours 35 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €135 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €155 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 14:45 in Helsinki, Priced at €155 One way per traveller. 9 hours 10 minutes total travel time, One stop, Stopover for 7 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €199 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 01:15 in Helsinki, Priced at €201 One way per traveller. Arrives 1 day later. 6 hours 0 minutes total travel time, One stop, Stopover for 1 hour 20 minutes in Frankfurt.• Lufthansa 897 operated by Lufthansa Cityline
+
+ Lufthansa flight, departing at 13:40 from Vilnius, arriving at 01:15 in Helsinki, Priced at €201 One way per traveller. Arrives 1 day later. 11 hours 35 minutes total travel time, One stop, Stopover for 6 hours 55 minutes in Frankfurt.
+
+ Norwegian Air International Ltd flight, departing at 14:35 from Vilnius, arriving at 21:20 in Helsinki, Priced at €214 One way per traveller. 6 hours 45 minutes total travel time, One stop, Stopover for 4 hours 25 minutes in Stockholm.
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €218 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €218 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by Nordic Reg For Finnair
+
+ Finnair flight, departing at 13:30 from Vilnius, arriving at 15:20 in Helsinki, Priced at €218 One way per traveller. 1 hour 50 minutes total travel time, Direct.• Finnair 1108 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 12:40 in Helsinki, Priced at €220 One way per traveller. Arrives 1 day later. 17 hours 25 minutes total travel time, One stop, Stopover for 12 hours 45 minutes in Frankfurt.• Lufthansa 897 operated by Lufthansa Cityline
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 17:25 in Helsinki, Priced at €220 One way per traveller, 4 left at this price. Arrives 1 day later. 22 hours 10 minutes total travel time, One stop, Stopover for 17 hours 30 minutes in Frankfurt.• Lufthansa 897 operated by Lufthansa Cityline
+
+ Lufthansa flight, departing at 13:40 from Vilnius, arriving at 12:40 in Helsinki, Priced at €220 One way per traveller. Arrives 1 day later. 23 hours 0 minutes total travel time, One stop, Stopover for 18 hours 20 minutes in Frankfurt.
+
+ Austrian Airlines flight, departing at 15:55 from Vilnius, arriving at 12:00 in Helsinki, Priced at €237 One way per traveller, 3 left at this price. Arrives 1 day later. 20 hours 5 minutes total travel time, Two stops, Stopover for 13 hours 45 minutes in Vienna • Stopover for 1 hour 0 minutes in Munich.• Austrian Airlines 7437 operated by Lufthansa
+
+ Scandinavian Airlines flight, departing at 11:25 from Vilnius, arriving at 16:35 in Helsinki, Priced at €237 One way per traveller, 3 left at this price. 5 hours 10 minutes total travel time, One stop, Stopover for 2 hours 45 minutes in Stockholm.• Scandinavian Airlines 741 operated by Regional Jet
+
+ Austrian Airlines flight, departing at 15:55 from Vilnius, arriving at 12:00 in Helsinki, Priced at €245 One way per traveller, 3 left at this price. Arrives 1 day later. 20 hours 5 minutes total travel time, Two stops, Stopover for 3 hours 10 minutes in Vienna • Stopover for 11 hours 35 minutes in Munich.• Austrian Airlines 7437 operated by Lufthansa
+
+ Austrian Airlines flight, departing at 15:55 from Vilnius, arriving at 01:15 in Helsinki, Priced at €245 One way per traveller, 3 left at this price. Arrives 1 day later. 9 hours 20 minutes total travel time, Two stops, Stopover for 2 hours 45 minutes in Vienna • Stopover for 0 hours 50 minutes in Frankfurt.• Austrian Airlines 7443 operated by Lufthansa
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-16
+
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. 9 hours 10 minutes total travel time, One stop, Stopover for 7 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. 11 hours 30 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. 15 hours 5 minutes total travel time, One stop, Stopover for 13 hours 15 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 5 minutes total travel time, One stop, Stopover for 15 hours 15 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 0 minutes total travel time, One stop, Stopover for 21 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 25 minutes total travel time, One stop, Stopover for 21 hours 35 minutes in Riga.
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €188 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 13:45 from Vilnius, arriving at 01:15 in Helsinki, Priced at €201 One way per traveller. Arrives 1 day later. 11 hours 30 minutes total travel time, One stop, Stopover for 6 hours 50 minutes in Frankfurt.
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €203 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 13:45 from Vilnius, arriving at 12:40 in Helsinki, Priced at €220 One way per traveller. Arrives 1 day later. 22 hours 55 minutes total travel time, One stop, Stopover for 18 hours 15 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €236 One way per traveller. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 11:25 from Vilnius, arriving at 16:40 in Helsinki, Priced at €237 One way per traveller. 5 hours 15 minutes total travel time, One stop, Stopover for 2 hours 50 minutes in Stockholm.• Scandinavian Airlines 741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 11:25 from Vilnius, arriving at 23:55 in Helsinki, Priced at €237 One way per traveller. 12 hours 30 minutes total travel time, One stop, Stopover for 10 hours 5 minutes in Stockholm.• Scandinavian Airlines 741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 11:25 from Vilnius, arriving at 08:35 in Helsinki, Priced at €237 One way per traveller. Arrives 1 day later. 21 hours 10 minutes total travel time, One stop, Stopover for 18 hours 45 minutes in Stockholm.• Scandinavian Airlines 741 operated by Regional Jet
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 01:15 in Helsinki, Priced at €248 One way per traveller. Arrives 1 day later. 19 hours 15 minutes total travel time, One stop, Stopover for 14 hours 35 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 18:00 from Vilnius, arriving at 23:55 in Helsinki, Priced at €257 One way per traveller. 5 hours 55 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Stockholm.• Scandinavian Airlines 739 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 18:00 from Vilnius, arriving at 08:35 in Helsinki, Priced at €257 One way per traveller. Arrives 1 day later. 14 hours 35 minutes total travel time, One stop, Stopover for 12 hours 10 minutes in Stockholm.• Scandinavian Airlines 739 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 23:55 in Helsinki, Priced at €268 One way per traveller, 5 left at this price. 8 hours 5 minutes total travel time, One stop, Stopover for 5 hours 0 minutes in Copenhagen.• Scandinavian Airlines 1743 operated by Cityjet, Scandinavian Airlines 1720 operated by SAS CONNECT
+
+ Scandinavian Airlines flight, departing at 15:50 from Vilnius, arriving at 10:35 in Helsinki, Priced at €268 One way per traveller. Arrives 1 day later. 18 hours 45 minutes total travel time, One stop, Stopover for 15 hours 40 minutes in Copenhagen.• Scandinavian Airlines 1743 operated by Cityjet
+
+ Lufthansa flight, departing at 18:50 from Vilnius, arriving at 12:00 in Helsinki, Priced at €278 One way per traveller, 4 left at this price. Arrives 1 day later. 17 hours 10 minutes total travel time, One stop, Stopover for 12 hours 35 minutes in Munich.• Lufthansa 4451 operated by Air Baltic
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-17
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. 9 hours 10 minutes total travel time, One stop, Stopover for 7 hours 20 minutes in Riga.
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-18
+
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 20:40 in Helsinki, Priced at €115 One way per traveller. 11 hours 30 minutes total travel time, One stop, Stopover for 9 hours 40 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 15 hours 10 minutes total travel time, One stop, Stopover for 13 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 5 minutes total travel time, One stop, Stopover for 15 hours 15 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 10 minutes total travel time, One stop, Stopover for 21 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 25 minutes total travel time, One stop, Stopover for 21 hours 35 minutes in Riga.
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €135 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Finnair flight, departing at 13:30 from Vilnius, arriving at 15:20 in Helsinki, Priced at €188 One way per traveller. 1 hour 50 minutes total travel time, Direct.• Finnair 1108 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 01:15 in Helsinki, Priced at €201 One way per traveller. Arrives 1 day later. 6 hours 0 minutes total travel time, One stop, Stopover for 1 hour 20 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 12:40 in Helsinki, Priced at €201 One way per traveller. 6 hours 40 minutes total travel time, One stop, Stopover for 2 hours 0 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 06:00 from Vilnius, arriving at 17:25 in Helsinki, Priced at €201 One way per traveller. 11 hours 25 minutes total travel time, One stop, Stopover for 6 hours 45 minutes in Frankfurt.
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €203 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by Nordic Reg For Finnair
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €203 One way per traveller, 1 left at this price. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by Nordic Reg For Finnair
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 12:40 in Helsinki, Priced at €220 One way per traveller. Arrives 1 day later. 17 hours 25 minutes total travel time, One stop, Stopover for 12 hours 45 minutes in Frankfurt.
+
+ Lufthansa flight, departing at 19:15 from Vilnius, arriving at 17:25 in Helsinki, Priced at €220 One way per traveller. Arrives 1 day later. 22 hours 10 minutes total travel time, One stop, Stopover for 17 hours 30 minutes in Frankfurt.
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 11:00 in Helsinki, Priced at €237 One way per traveller. 4 hours 0 minutes total travel time, One stop, Stopover for 1 hour 35 minutes in Stockholm.• Scandinavian Airlines 1741 and 704 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 14:00 in Helsinki, Priced at €237 One way per traveller. 7 hours 0 minutes total travel time, One stop, Stopover for 4 hours 35 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 23:55 in Helsinki, Priced at €237 One way per traveller. 16 hours 55 minutes total travel time, One stop, Stopover for 14 hours 30 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 08:35 in Helsinki, Priced at €237 One way per traveller. Arrives 1 day later. 25 hours 35 minutes total travel time, One stop, Stopover for 23 hours 10 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 11:25 from Vilnius, arriving at 16:40 in Helsinki, Priced at €257 One way per traveller. 5 hours 15 minutes total travel time, One stop, Stopover for 2 hours 50 minutes in Stockholm.• Scandinavian Airlines 741 operated by Regional Jet
+
+
+FLIGHTS FROM vilnius TO helsinki 2024-04-19
+
+
+ Norwegian Air International Ltd flight, departing at 09:55 from Vilnius, arriving at 18:20 in Helsinki, Priced at €91 One way per traveller. 8 hours 25 minutes total travel time, One stop, Stopover for 6 hours 5 minutes in Stockholm.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 2 hours 40 minutes total travel time, One stop, Stopover for 0 hours 50 minutes in Riga.
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 14:45 in Helsinki, Priced at €115 One way per traveller. 5 hours 35 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 9 hours 0 minutes total travel time, One stop, Stopover for 7 hours 10 minutes in Riga.
+
+ Air Baltic flight, departing at 21:40 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 10 hours 40 minutes total travel time, One stop, Stopover for 8 hours 50 minutes in Riga.• Air Baltic 301 operated by Carpatair
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 00:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 15 hours 10 minutes total travel time, One stop, Stopover for 13 hours 20 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 17 hours 0 minutes total travel time, One stop, Stopover for 15 hours 10 minutes in Riga.• Air Baltic 301 operated by Carpatair
+
+ Air Baltic flight, departing at 09:10 from Vilnius, arriving at 08:20 in Helsinki, Priced at €115 One way per traveller. Arrives 1 day later. 23 hours 10 minutes total travel time, One stop, Stopover for 21 hours 20 minutes in Riga.• Air Baltic 301 operated by Carpatair
+
+ Air Baltic flight, departing at 05:35 from Vilnius, arriving at 08:20 in Helsinki, Priced at €135 One way per traveller. 2 hours 45 minutes total travel time, One stop, Stopover for 0 hours 55 minutes in Riga.
+
+ Air Baltic flight, departing at 15:20 from Vilnius, arriving at 20:40 in Helsinki, Priced at €135 One way per traveller. 5 hours 20 minutes total travel time, One stop, Stopover for 3 hours 30 minutes in Riga.
+
+ Lufthansa flight, departing at 19:30 from Vilnius, arriving at 01:15 in Helsinki, Priced at €172 One way per traveller. Arrives 1 day later. 5 hours 45 minutes total travel time, One stop, Stopover for 1 hour 5 minutes in Frankfurt.
+
+ Finnair flight, departing at 18:10 from Vilnius, arriving at 19:55 in Helsinki, Priced at €188 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1106 operated by NORDIC REG FOR FINNAIR
+
+ Lufthansa flight, departing at 19:30 from Vilnius, arriving at 12:40 in Helsinki, Priced at €191 One way per traveller. Arrives 1 day later. 17 hours 10 minutes total travel time, One stop, Stopover for 12 hours 30 minutes in Frankfurt.
+
+ Austrian Airlines flight, departing at 15:55 from Vilnius, arriving at 01:15 in Helsinki, Priced at €212 One way per traveller, 5 left at this price. Arrives 1 day later. 9 hours 20 minutes total travel time, Two stops, Stopover for 2 hours 45 minutes in Vienna • Stopover for 0 hours 50 minutes in Frankfurt.• Austrian Airlines 7443 operated by Lufthansa
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 11:00 in Helsinki, Priced at €217 One way per traveller. 4 hours 0 minutes total travel time, One stop, Stopover for 1 hour 35 minutes in Stockholm.• Scandinavian Airlines 1741 and 704 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 14:00 in Helsinki, Priced at €217 One way per traveller. 7 hours 0 minutes total travel time, One stop, Stopover for 4 hours 35 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 21:50 from Vilnius, arriving at 10:40 in Helsinki, Priced at €217 One way per traveller. Arrives 1 day later. 12 hours 50 minutes total travel time, One stop, Stopover for 10 hours 25 minutes in Stockholm.• Scandinavian Airlines 1731 operated by Regional Jet
+
+ Scandinavian Airlines flight, departing at 07:00 from Vilnius, arriving at 23:55 in Helsinki, Priced at €217 One way per traveller. 16 hours 55 minutes total travel time, One stop, Stopover for 14 hours 30 minutes in Stockholm.• Scandinavian Airlines 1741 operated by Regional Jet
+
+ Finnair flight, departing at 09:55 from Vilnius, arriving at 11:40 in Helsinki, Priced at €218 One way per traveller. 1 hour 45 minutes total travel time, Direct.• Finnair 1102 operated by NORDIC REG FOR FINNAIR
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 10:35 in Helsinki, Priced at €228 One way per traveller, 4 left at this price. 4 hours 5 minutes total travel time, One stop, Stopover for 1 hour 0 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 16:15 in Helsinki, Priced at €228 One way per traveller, 4 left at this price. 9 hours 45 minutes total travel time, One stop, Stopover for 6 hours 40 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet, Scandinavian Airlines 1712 operated by Sas Connect
+
+ Scandinavian Airlines flight, departing at 06:30 from Vilnius, arriving at 23:55 in Helsinki, Priced at €228 One way per traveller, 4 left at this price. 17 hours 25 minutes total travel time, One stop, Stopover for 14 hours 20 minutes in Copenhagen.• Scandinavian Airlines 743 operated by Cityjet, Scandinavian Airlines 1720 operated by Sas Connect
+
+ multipleAirlines flight, departing at 19:30 from Vilnius, arriving at 10:40 in Helsinki, Priced at €248 One way per traveller, 4 left at this price. Arrives 1 day later. 15 hours 10 minutes total travel time, Two stops, Stopover for 1 hour 5 minutes in Frankfurt • Stopover for 8 hours 45 minutes in Stockholm.
+
+ Scandinavian Airlines flight, departing at 17:45 from Vilnius, arriving at 23:55 in Helsinki, Priced at €257 One way per traveller, 3 left at this price. 6 hours 10 minutes total travel time, One stop, Stopover for 3 hours 45 minutes in Stockholm.• Scandinavian Airlines 739 operated by Regional Jet
+
+ Finnair flight, departing at 13:30 from Vilnius, arriving at 15:20 in Helsinki, Priced at €258 One way per traveller, 2 left at this price. 1 hour 50 minutes total travel time, Direct.• Finnair 1108 operated by NORDIC REG FOR FINNAIR
+
